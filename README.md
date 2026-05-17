@@ -64,13 +64,9 @@ Certificate	Issuer	Year
 ![GitHub Streak](https://streak-stats.demolab.com?user=hetvi-pipaliya&theme=tokyonight&hide_border=true)
 </div>
 ---
-🌐 Connect With Me
-<div align="center">
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-</div>
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hetvi-pipaliya-465351407/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetvipipaliya0501@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hetvi-pipaliya)
 <div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=hetvi-pipaliya&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
